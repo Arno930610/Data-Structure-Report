@@ -1,4 +1,4 @@
-<p align="center"><font size="6"><b>資料結構 11224117 蕭冠廷</b></font></p>
+<p align="center"><font size="6"><b>暑修資料結構期中報告 11128004 林峻成 11124129 吳張傑</b></font></p>
 
 <p align="center">資料結構 [Python--Stack] 的應用</p>
 
