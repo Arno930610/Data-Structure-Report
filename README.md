@@ -41,13 +41,13 @@
 3-1 進制轉換
 
 
-<img width="532" height="756" alt="三-1" src="https://github.com/user-attachments/assets/f90daab8-a4e5-4dc9-9906-a2ef9166ca65" />
+<img width="532" height="756" alt="三-1" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-1.png" />
 
 
 
 輸出結果
 
-<img width="1415" height="83" alt="三-1結" src="https://github.com/user-attachments/assets/0319da34-8887-4b00-8284-ad5794aa78ae" />
+<img width="1415" height="83" alt="三-1結" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-1%E7%B5%90%E6%9E%9C.png" />
 
 
 說明：這是用 List 結構來實現的「棧」，同樣我們可以自己寫一個棧
@@ -55,13 +55,13 @@
 
 3-2 自己寫堆疊
 
-<img width="465" height="611" alt="三-2" src="https://github.com/user-attachments/assets/402637bf-1ef5-4868-93af-bbed80c73164" />
-<img width="352" height="402" alt="三-2-" src="https://github.com/user-attachments/assets/812134ff-b477-4115-b188-fd21c6f41cf6" />
+<img width="465" height="611" alt="三-2" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-2.png" />
+
 
 
 輸出結果
 
-<img width="830" height="191" alt="三-2結" src="https://github.com/user-attachments/assets/2b247947-15bd-4982-9257-b19d010f59a7" />
+<img width="830" height="191" alt="三-2結" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-2%E7%B5%90%E6%9E%9C.png" />
 
 說明：
 
@@ -72,15 +72,15 @@
 
 3-3 程式碼—將數學表達式轉成前序式
 
-<img width="463" height="650" alt="三-3" src="https://github.com/user-attachments/assets/9d820a91-22ce-416c-83a1-7641578e6cea" />
+<img width="463" height="650" alt="三-3" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-3-1.png" />
 
-<img width="864" height="749" alt="三-3-" src="https://github.com/user-attachments/assets/17c2b42b-f683-4a15-ae28-c9dd5eb72068" />
+<img width="864" height="749" alt="三-3-" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-3-2.png" />
 
 
 
 輸出結果
 
-<img width="783" height="72" alt="三-3結" src="https://github.com/user-attachments/assets/bc457ada-1b4f-4399-a4bf-a29e6a5e0989" />
+<img width="783" height="72" alt="三-3結" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-3%E7%B5%90%E6%9E%9C.png" />
 
 說明：
 
@@ -91,14 +91,18 @@
 
 3-4 程式碼—後序表達式（逆波蘭式）
 
-<img width="997" height="943" alt="三-4" src="https://github.com/user-attachments/assets/18be9101-1208-4c69-8f01-1925ff7a161e" />
+<img width="997" height="943" alt="三-4" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-4-1.png" />
 
-<img width="539" height="826" alt="三-4-" src="https://github.com/user-attachments/assets/271d8db4-f449-4c09-b199-16d2ed7183c9" />
+<img width="539" height="826" alt="三-4-" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-4-2.png" />
+
+<img width="539" height="826" alt="三-4-" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-4-3.png" />
+
+
 
 
 輸出結果
 
-<img width="699" height="203" alt="三-4結" src="https://github.com/user-attachments/assets/1919ce58-fe94-4a19-acbf-555e3fc1d98b" />
+<img width="539" height="826" alt="三-4-" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-4%E7%B5%90%E6%9E%9C.png" />
 
 
 說明：
