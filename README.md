@@ -1,6 +1,6 @@
 <p align="center"><font size="6"><b>暑修資料結構期中報告 11128004 林峻成 11124129 吳張傑</b></font></p>
 
-<p align="center">資料結構 [Python--Stack] 的應用</p>
+<p align="center">[Python--Stack] 的應用</p>
 
 
 一、什麼是棧
