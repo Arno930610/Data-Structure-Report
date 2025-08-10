@@ -27,9 +27,10 @@
       clear 清空棧，沒有返回值。
 
 
-2. 利用 Python 的內置資料結構 List 實現堆疊全部操作與輸出結果
+2. 利用 Python 的內置資料結構 List 實現堆疊全部操作輸出結果
 <img width="545" height="739" alt="二" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/2.png">
-
+輸出結果
+<img width="545" height="739" alt="https://github.com/Arno930610/Data-Structure-Report/blob/main/2-%E7%B5%90%E6%9E%9C.png">
 
 
       
