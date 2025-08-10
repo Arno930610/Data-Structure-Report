@@ -71,6 +71,7 @@
 2.定義一個堆疊，使用指針控制其最頂端的位置
 
 
+
 3-3 程式碼—將數學表達式轉成前序式
 
 <img width="463" height="650" alt="三-3" src="https://github.com/Arno930610/Data-Structure-Report/blob/main/3-3-1.png" />
